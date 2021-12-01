@@ -1,0 +1,18 @@
+{
+    
+    "Kafka": {
+	"KafkaBrokerIp": "127.0.0.1",
+        "RoutineCount" :100,
+        "KafkaTopic": "messagequeue",
+        "MessageLength": 500
+	},
+ 
+     
+   "Jira": {
+                "Host": "sample.atlassian.net",
+                "Username": "sample@test.com",
+                "ApiKey":  "Ra3k22TYUuLL4wI8lpbLHBQ6F9E",
+                "ProjectKey" : "MC",
+                "AssigneeId" : "g34567890"
+        }
+}
